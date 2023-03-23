@@ -1,10 +1,12 @@
+ 
 <template>
+
   <img class="background_C1C"
        src="https://new.inews.gtimg.com/tnews/940fc8aa/b4fa/940fc8aa-b4fa-4a62-8a2b-8e724778db70.jpg">
   <div class="text_5AH">看着我的眼睛 获得英雄卡</div>
   <div class="text_9T6">NO. 2023012345678910</div>
   <img class="head_E0W"
-       src="https://bizaladdin-image.baidu.com/0/pic/1080140929_-251358729_-1837083577.jpg">
+       src="https://avatars1.githubusercontent.com/u/24643401">
   <div class="text_UCF">长按二维码</div>
   <div class="text_A7H">揭秘你的冰雪英雄</div>
   <img class="qrcode_QSV"
@@ -21,7 +23,7 @@
 }
 .text_5AH {
   position: absolute;
-  width: 316px;
+  width: 158px;
   left: 257px;
   top: 697px;
   color: rgba(255, 220, 165, 1);
@@ -31,7 +33,7 @@
 }
 .text_9T6 {
   position: absolute;
-  width: 262px;
+  width: 131px;
   left: 8px;
   top: 10px;
   color: rgba(255, 220, 165, 1);
@@ -49,7 +51,7 @@
 }
 .text_UCF {
   position: absolute;
-  width: 120px;
+  width: 60px;
   left: 451px;
   top: 1230px;
   color: rgba(255, 220, 165, 1);
