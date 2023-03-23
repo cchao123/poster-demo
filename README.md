@@ -2,6 +2,8 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+![](https://www.cchao.cc/images/poster-demo-code.gif)
+
 ## 目录
 ```
 |- src
